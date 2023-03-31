@@ -1,4 +1,4 @@
-# 1.Project-Quantitative-Finance: Portfolio Optimization with Mean-Variance and Monte Carlo Simulation
+# Quantitative-Finance: Portfolio Optimization 
 
 ## Introduction
 This is a Jupyter Notebook project that demonstrates portfolio optimization using the mean-variance method and Monte Carlo simulation. The purpose of this project is to show how these two methods can be used to create efficient portfolios that maximize expected return while minimizing risk.
